@@ -1,3 +1,5 @@
 h1 {
 		font-family: helvetica;
+		border: 1px dashed #333;
+		margin: 0 5px 0 5px;
 }
