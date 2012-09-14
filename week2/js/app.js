@@ -1,10 +1,7 @@
-<script>
-function alert() {
-
-alert(txt = "<p>Browser Version: " + navigator.appVersion + "</p>";);
-
-document.getElementById("example").innerHTML=txt;
+function hello() {
+	
+	var bName = navigator.userAgent;
+	
+	document.write("You are browsing this page using ", bName,".");
 
 }
-
-</script>
