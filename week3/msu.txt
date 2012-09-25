@@ -1,0 +1,8 @@
+SITE CRITIQUE | Michigan State University - msu.edu
+
+Msu.edu is Michigan State University's website and is a portal for information about MSU.  In particular, the site describes MSU's admissions policies, academics, research goals, international student initiatives, engagement, and athletics.  Like other MSU's college websites, the look is uniform and features a header with navigation, body, and footer.  A large Shockwave banner dominates the body with sections for MSU view, MSU news, and events.  Just below that section are social media feeds and below that are spotlighted sections which, on the right side, change using the navigation arrows on either side.
+
+As a whole the website does a nice job of presenting it's information.  The navigation is easily accessible and points users in the right direction using drop down menus.  The colors reflect MSU's school colors and are tastefully used.
+
+Accessing the site on a mobile device did not change the look of the site or optimize it for the smaller screen.  Instead, a banner appeared at the top of the site giving you the option of viewing the "mobile" version of the site.  This is ok, but I would have preferred the website recognize the device and serve you the correct page.  I don't understand the extra step.  The site could be improved by using responsive design.
+
