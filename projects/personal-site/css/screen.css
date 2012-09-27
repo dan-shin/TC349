@@ -93,24 +93,24 @@ hr {
 }
 
 h1 {
-	font-family: Helvetica Neue;
+	font-family: "Helvetica Neue", sans-serif;
 	font-size: 18px;
 	color: #333;
 	margin-left: 12px;	
 }
 
 h2 {
-	font-family: Helvetica Neue;
+	font-family: "Helvetica Neue", sans-serif;
 	color: #333;
 }
 
 h3 {
-	font-family: Helvetica Neue;
+	font-family: "Helvetica Neue", sans-serif;
 	margin: 0 2em 0.5em 1.7em;
 }
 
 p {
-	font-family: Helvetica Neue;
+	font-family: "Helvetica Neue", sans-serif;
 	font-size: 14px;
 	line-height: 1.45em;
 	color: #333;
@@ -118,14 +118,13 @@ p {
 
 .leftcolumn {
 	float: left;
-	align: top;
 	width: 150px;
 	height: 25px;
 	
 }
 
 .bignumber {
-	font-family: Helvetica Neue;
+	font-family: "Helvetica Neue", sans-serif;
 	font-size: 20px;
 	font-weight: bold;
 	color: #FFF;
@@ -137,7 +136,7 @@ p {
 }
 
 .intro {
-	font-family: Georgia, Geneva;
+	font-family: "Georgia", "Geneva", serif;
 	font-size: 24px;
 	color: #333;
 }
@@ -165,7 +164,7 @@ a:hover, a:focus, a:active {
 }
 
 ul {
-	font-family: Helvetica Neue;
+	font-family: "Helvetica Neue", sans-serif;
 	font-size: 14px;
 	list-style-type: square;
 	color: #333;
