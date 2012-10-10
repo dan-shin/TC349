@@ -23,6 +23,16 @@ body {
 
 p {
 	font-size: 14px;
+	margin: 10px 0 10px 0;
+}
+
+img {
+	margin: 10px auto;
+	display: block;
+}
+
+ul {
+	font-size: 14px;
 }
 
 h1, h2, h3 {
@@ -33,6 +43,7 @@ h1 {
 	background: #FFF;
 	padding: 30px 15px 15px 15px;
 	color: #FFF;
+	font-size: 34px;
 	font-family: "Helvetica", sans-serif;
 }
 
@@ -47,7 +58,7 @@ h2 {
 
 h3 {
 	background: #FFF;
-	padding: 10px 0 10px 0;
+	padding: 20px 0 0 0;
 	color: #333;
 	font-family: "Helvetica", sans-serif;
 	font-size: 18px;
@@ -61,4 +72,22 @@ table, tr, td {
 
 table td {
 	padding: 5px;
+}
+
+a {
+	color: #333;
+	text-decoration: none;
+	border-bottom: 1px dotted #333;
+}
+
+a:visited {
+	color: #999;
+	text-decoration: none;
+	border-bottom: 1px dotted #999;
+}
+
+a:hover {
+	color: #333;
+	text-decoration: none;
+	border-bottom: none;
 }
