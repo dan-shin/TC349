@@ -1,0 +1,5 @@
+Site Critique | Chartbeat
+
+Chartbeat is an analytic service that provides important insights and statistics for your site.  They provide information such as top links that lead to your site.  Allowing you to see what sites are sending you traffic.  Top search terms gives you insight into the search terms that are being used.  Top pages shows the most popular pages.  A breakdown of the type of traffic, desktop or mobile, gives you information on where your users are viewing your site.  It's all critical information to keep your site current and growing.
+
+Chartbeat's software is, put simply, amazing.  I find it to be simpler and more useful than, say, Google analytics.  Their website does an excellent job of relaying this information to their viewers.  The color palette and the extensive use of colorful illustrations with dynamic data help to hammer the point home.  As the site says, if your a doer and you need the simplicity that Chartbeat can provide to crucial analytics that big time companies such as EA, Billboard, Starbucks and others rely on, you need their services.  Nice, simple, clean, and effective.
