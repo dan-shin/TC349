@@ -75,6 +75,14 @@ body {
 	background-color: #FFF;
 }
 
+article {
+	width: 235px;
+	padding: 10px;
+	margin: 5px;
+	float: left;
+	background: #F3F3F3;
+}
+
 hr {
 	border: 0;
 	border-bottom: 1px dashed #CCC;
@@ -169,6 +177,9 @@ ul {
 	margin: 0;
 }
 
+.clear {
+	clear: both;
+}
 
 
  
