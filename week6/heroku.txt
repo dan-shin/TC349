@@ -1,3 +1,7 @@
 Site Critique | Heroku.com
 
-Heroku is a cloud application platform
+Heroku is a cloud based application platform that helps companies deploy and scale powerful apps.  Using either Ruby, Node.js, Clojure, Java, Python, and Scala platforms, they take out the worry and hassle of dealing with your own servers (uptime, etc) and use Git to enable a familiar user experience and version control of your apps.
+
+The layout that they use for their site is single column with a header, content, and a footer.  Information is made available through additional links from within the content.  Using Javascript they are able to present information on the front page without the user having to leave it.  It is a nice and compact way of presenting important information.  Another way they could have done this would be to extend the page all the way down much like Chartbeat did.
+
+The only problem that I have with this site is that it is much too dark.  The color palette almost entirely consists of cool colors and dark grays.  It is because of this subdued color palette that, despite the cool graphics, the site does not create much excitement in their offering for me.  Using warm colors in the color palette would help to draw emphasis to important points and keep the viewer engaged.  I get that it is a technical site, but there is absolutely no need to convey it in such a tedious way. 
