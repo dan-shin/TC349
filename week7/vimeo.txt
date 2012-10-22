@@ -1,0 +1,7 @@
+Site Critique | Vimeo.com
+
+Vimeo, much like Google's YouTube, offers up streaming video on the web.  Where they seem to differ with YouTube, however, is that many, if not most, the videos on this site are produced by creatives, indie filmmakers and others with a passion for film.  So, in this sense, Vimeo comes off as not being as "commercial" as YouTube.  They were the first to offer full HD (at least 720p) video and continually push to improve standards in web video.
+
+With that being said, Vimeo recently redesigned their site, and, I must say, I enjoy it very much.  The color scheme works well and complements each other.  Important text is large and readable.  Smaller, main text, in gray against the white background, is also readable.  The font used on the site, Helvetica, is perfect for the site and they use it extensively from the h1 all the way down to the article text.  Main links appear to the right of the main logo and expand to include child links when needed.  Very slick and nice use of space saving techniques.  The main content on the site has a max width of 960px and is standard.
+
+Access from mobile redirects to a mobile only version of the site that is easy to use, keeps to the design and look of the original site, and is just as impressive.   Although I did run into issues with playback on a lot of videos which I thought was weird as I have a webkit (Chrome) browser on my phone.  I was under the impression that all videos were now HTML5 (H.264) compatible.  They could use a lot of help in that area.
