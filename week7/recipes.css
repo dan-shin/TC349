@@ -33,13 +33,14 @@ hgroup {
 
 .container {
 	width: 800px;
-	margin: 0 auto;
+	margin: 0 auto;	
 }
 
 #recipes {
 	padding: 15px;
 	background: #FFF url(images/yum.jpg) no-repeat;
 	border-top: 10px solid #222;
+	box-shadow: 0 0 20px #424242;
 }
 
 article {
