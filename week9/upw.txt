@@ -1,0 +1,7 @@
+Site Critique | United Pixelworkers
+
+The United Pixelworkers are a clothier who specializes in catering to those of us who "push" pixels… creatives on the web.  And to that end, they exclusively offer t-shirts with designs that represent ideas based on what we do.  For example, a shirt might depict a pixelized graphic of an animal.  Other examples show the United Pixelworkers logo, often in different fonts or offsets.
+
+In so far as the site design is concerned, I absolutely love it.  It features a responsive design which, in this context, works extremely well.  The reason it works well is that each of the t-shirt designs can be seen in individual boxes that move based on the viewers screen resolution.  This works well because, this enables the viewer to see the entire catalog at once.
+
+Featured designs and posts are shown in larger boxes and everything is kept simple from the colors, that are bright and bold, to the headers and footers that are clean and show only what is important to the user. Larger boxes draw your attention to featured designs and content.  Nice UI touches such as the slightly upward shifting boxes give you feedback as to where your mouse is on the screen.  Also, as you scroll down the page, the shopping cart follows to offer quick access.  I left the site feeling impressed.  They truly give the impression that they are more than just a quirky t-shirt company selling creatively designed and themed shirts.  They are creatives, just like you and I. 
