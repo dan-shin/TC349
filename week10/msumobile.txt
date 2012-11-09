@@ -1,0 +1,5 @@
+Site Critique | MSU Mobile
+
+The MSU Mobile site is a stripped down version of the MSU homepage for mobile devices.  By optimizing the site for mobile, the site features title text in the header that is big and easily readable.  It also uses big icons for important categories on the front page for easy site navigation.  Clicking on any of the icons leads you to their respective lists of articles with brief previews of the text and chevrons that lead you to the full text.  Search is prominently displayed on every page at the top of the page near the header.  Additionally, breadcrumbs are supplied at the top of every child page allowing the user an additional means of going back and/or to keep track of where they are on the site.
+
+The site excels in its UI and navigation.  Information is readily available, readable and easy to access.  It's clear and concise in its simplicity.  That said, in terms of aesthetic design, the site could use some more color in addition to the use of the school colors.  A slidable photo would add some flair to the front page and could be used to highlight upcoming events such as the opening of the Broad Art Museum for example.
