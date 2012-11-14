@@ -1,0 +1,5 @@
+Site Critique | The Verge
+
+The Verge is a technology blog/site that "covers the intersection of technology, science, art and culture."  They often review the newest gadgets, speak on important technical matters, and sprinkle in the occasional article for laughs.  The site is developed by Code and Theory, one of my favorite web design firms.  The sites design speaks to The Verges mantra and their commitment to technology.  They don't just report on it, they use it.
+
+When visiting the site using a mobile device, you are served a scaled down version of the site.  Meaning you won't see the, isotope like, picture tiles that dominate the front page of the desktop site.  You also won't see the multi-layered navigation.  What you will see, however, is the essential content from the main site, it's articles, wrapped a touchable, readable interface.  A slider shows featured articles taken from the isotope on the main site and then links with short headlines to full articles.  It's nicely done and gives you the sense that you are still viewing "The Verge" in all its glory.
